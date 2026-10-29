@@ -1,0 +1,27 @@
+{
+  "host": "127.0.0.1",
+  "port": 25366,
+  "portMode": "project",
+  "clientConfigEntries": {
+    "trae": {
+      "serverName": "cocos-test-funplay-fb1c98",
+      "url": "http://127.0.0.1:25366/",
+      "configPath": "C:\\Users\\CHPC\\.trae\\mcp.json",
+      "projectIdentity": "fb1c98e67406edca4918fe88"
+    }
+  },
+  "toolProfile": "core",
+  "enabledTools": [],
+  "disabledTools": [],
+  "enabledToolCategories": [],
+  "disabledToolCategories": [],
+  "enableSessions": false,
+  "enableConsoleLogging": true,
+  "executeJavascriptSafetyChecks": true,
+  "autostart": true,
+  "maxInteractionLogEntries": 50,
+  "lastClientTargetId": "trae",
+  "activeToolProfileName": "",
+  "savedToolProfiles": [],
+  "language": "auto"
+}
